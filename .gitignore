@@ -1,0 +1,18 @@
+# Build and generated runtime data
+/out/
+/boveda.dat
+/boveda.dat.legacy.bak
+/logs/
+/test-work/
+
+# IntelliJ IDEA
+/.idea/*
+!/.idea/misc.xml
+
+# Other IDEs
+.classpath
+.project
+.settings/
+/bin/
+/target/
+.vscode/
